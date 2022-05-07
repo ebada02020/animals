@@ -1,3 +1,5 @@
 tiger
 giraffe
 lion
+elephant
+crocodile
